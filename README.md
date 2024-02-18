@@ -32,7 +32,7 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
    Navigate into each directory to find detailed scripts, pipelines, and configurations.
 
 3. **Follow the Blog:**
-   Implementation details and insights are documented in the associated [blog post](https://amanpathakdevops.medium.com/devsecops-mastery-a-step-by-step-guide-to-deploying-tetris-on-aws-eks-with-jenkins-and-argocd-3adcf21b3120).
+   Implementation details and insights are documented in the associated [blog post]().
 
 ## Tools Explored 🛠️
 1. **Jenkins:** Automated CI/CD pipelines
@@ -45,7 +45,7 @@ Welcome to an immersive DevSecOps learning experience! This project guides you t
 8. **Terraform:** Infrastructure as Code for AWS EKS
 
 ## Blog Implementation 📝
-   To implement this project, follow the step-by-step guide in our detailed [blog post](https://amanpathakdevops.medium.com/devsecops-mastery-a-step-by-step-guide-to-deploying-tetris-on-aws-eks-with-jenkins-and-argocd-3adcf21b3120). Learn how each tool plays a crucial role in achieving DevSecOps excellence.
+   To implement this project, follow the step-by-step guide in our detailed [blog post](). Learn how each tool plays a crucial role in achieving DevSecOps excellence.
 
 ## Acknowledgments 🙌
    Special thanks to the open-source community and the contributors who make learning and collaboration an incredible journey.
